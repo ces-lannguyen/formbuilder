@@ -3,7 +3,7 @@
       {
          "id":1,
          "title":"Document 1",
-         "categoryId": 100,
+         "categoryId":100,
          "formTemplate":{
             "title":"Occupancy Information",
             "pages":[
@@ -121,6 +121,54 @@
                }
             ]
          }
+      }
+   ],
+   "categories":[
+      {
+         "Title":"Buying a Home",
+         "Active":true,
+         "id":"fb00c0a2-71bf-11eb-9439-0242ac130002",
+         "ItemType":"Offer",
+         "SubCagories":[
+            {
+               "Title":"Lan Test 1",
+               "Active":true,
+               "id":"fb00c0a2-71bf-11eb-9439-0242ac130003",
+               "ItemType":"Offer"
+            },
+            {
+               "Title":"Lan Test 2",
+               "Active":true,
+               "id":"fb00c0a2-71bf-11eb-9439-0242ac130004",
+               "ItemType":"Offer"
+            }
+         ]
+      },
+      {
+         "Title":"Selling a Home",
+         "Active":true,
+         "id":"0014b5ee-71c0-11eb-9439-0242ac130005",
+         "ItemType":"Property",
+         "SubCagories":[
+            {
+               "Title":"Lan Test 4",
+               "Active":true,
+               "id":"fb00c0a2-71bf-11eb-9439-0242ac130003",
+               "ItemType":"Offer"
+            },
+            {
+               "Title":"Lan Test 5",
+               "Active":true,
+               "id":"fb00c0a2-71bf-11eb-9439-0242ac130008",
+               "ItemType":"Offer"
+            }
+         ]
+      },
+      {
+         "Title":"In Progress",
+         "Active":false,
+         "id":"0d1f6b34-bcaa-4104-bd6b-a005a78c2029",
+         "ItemType":null
       }
    ]
 }
