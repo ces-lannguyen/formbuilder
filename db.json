@@ -172,6 +172,6 @@
       }
    ],
    "formTypes": {
-    "0d1f6b34-bcaa-4104-bd6b-a005a78c2029": [{ id: 1, name: "New test" }],
+    "0d1f6b34-bcaa-4104-bd6b-a005a78c2029": [{ "id": 1, "name": "New test" }],
   }
 }
